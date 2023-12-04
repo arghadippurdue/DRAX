@@ -8,12 +8,12 @@ This repository contains the PyTorch implementation for DRAX. The code has been 
 
 ## Dataset Preparation
 
-1. Download the test dataset and place it under the `/modelnet_test` directory.
+1. Download the test dataset from [here](https://drive.google.com/file/d/1lBNJXqq3JLfc0oEWDmdA-mrG6NSD2ui6/view?usp=drive_link) and place it under the `/modelnet_test` directory.
 
 ## Model Preparation
 
-1. Place the approximate models inside the `/Approx_models` directory.
-2. Place the accurate models inside the `/acc_models` directory.
+1. Place the approximate models, which can be downloaded from [here](https://drive.google.com/drive/folders/1htvM7Z5_GYyl0pIb3khws0D0kF54H6UH?usp=sharing), inside the `/Approx_models` directory.
+2. Place the accurate models, which can be downloaded from [here](https://drive.google.com/drive/folders/1rTIISm-MWGhYMmxVwpsB7mKdf3Q610hf?usp=sharing), inside the `/acc_models` directory.
 
 ## Error Mask Preparation
 
