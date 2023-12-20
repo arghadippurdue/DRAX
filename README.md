@@ -23,6 +23,13 @@ This repository contains the PyTorch implementation for DRAX. The code has been 
 
 1. Run the `DRAX_Quality.ipynb` notebook for DRAX Inference.
 
+## DSE Heuristic Threshold
+
+In the context of our system, the Threshold (*Th*) value for the Design Space Exploration (DSE) heuristic has been empirically set to 0.01%.
+
+### Note:
+The chosen value for *Th* is based on empirical observations and considerations specific to our system. Adjustments to this threshold may be necessary based on the requirements and characteristics of your application.
+
 ## Reference
 
 The implementation is based on the following paper:
