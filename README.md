@@ -1,4 +1,4 @@
-# PyTorch Code for DRAX
+# PyTorch Code for [DRAX](https://ieeexplore.ieee.org/document/10433860)
 
 This repository contains the PyTorch implementation for DRAX. The code has been tested on Python 3.8 and PyTorch 1.13.0.
 
